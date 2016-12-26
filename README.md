@@ -1,4 +1,4 @@
-# CloudShellLive-CI-Integration
+# CloudShellLive-CI-Integration-Adv
 
 This repo is used to demonstrate how external build and testing solutions can integrate with CloudShell using the Demo Advanced domain.
 
