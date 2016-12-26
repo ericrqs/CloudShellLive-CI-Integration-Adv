@@ -34,7 +34,7 @@ class TestDocParser(HTMLParser):
 # get sandbox details
 ########################################
 sandboxID = os.environ["SANDBOX_ID"]
-testURL = "http://10.0.46.96/index.html"
+testURL = "http://10.0.33.45/index.html"
 
 time.sleep(180)
 
